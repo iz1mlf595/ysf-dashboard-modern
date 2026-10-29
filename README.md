@@ -1,4 +1,26 @@
-# DashBord Modern for YSF Reflector
+# 📻 Dashboard DarkMode per XLX Reflector
+<br>
+<br>
+<br>
+Passaggi per installazione della Dashboard :
+<br>
+# 1. Clona la repository dalla directory /var/www/html (o dalla cartella desiderata)
+<br>
+cd /var/www/html
+<br>
+sudo git clone https://github.com/iz1mlf595/ysf-dashboard-modern.git
+<br>
+# 2. Entra nella cartella appena creata
+<br>
+cd /var/www/html
+<br>
+# 4. Assegna i permessi corretti ad Apache
+<br>
+sudo chown -R www-data:www-data /var/www/html/
+<br>
+sudo find /var/www/html/ -type d -exec chmod 755 {} \;
+<br>
+sudo find /var/www/html/ -type f -exec chmod 644 {} \;
 <br>
 <br>
 <br>
