@@ -41,13 +41,13 @@ sudo find /var/www/html/ -type f -exec chmod 644 {} \;
 <br>
 <br>
 <br>
-<b># Banner in tempo reale durante una trasmissione! #</b>
 <br>
 <br>
 <img width="1917" height="937" alt="Image" src="https://github.com/user-attachments/assets/1b3facde-e8d6-403f-822b-39cf652748b8" />
 <br>
 <br>
 <br>
+<b># Banner in tempo reale durante una trasmissione! #</b>
 <br>
 <br>
 <img width="1902" height="565" alt="Image" src="https://github.com/user-attachments/assets/f2d453cf-1e3a-4b25-a8b1-188a8bf0fc8f" />
