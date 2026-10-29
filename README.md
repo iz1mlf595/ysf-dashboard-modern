@@ -25,7 +25,7 @@ sudo find /var/www/html/ -type f -exec chmod 644 {} \;
 <br>
 <br>
 <br>
-<b></b>Anteprima della Dashboard :</b>
+<b>Anteprima della Dashboard :</b>
 <br>
 <br>
 <br>
