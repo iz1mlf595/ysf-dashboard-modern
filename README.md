@@ -16,6 +16,9 @@
 <br>
 <br>
 <br>
+# Banner in tempo reale durante una trasmissione! #
+<br>
+<br>
 <img width="1917" height="937" alt="Image" src="https://github.com/user-attachments/assets/1b3facde-e8d6-403f-822b-39cf652748b8" />
 <br>
 <br>
